@@ -1,3 +1,2 @@
 print("Hello World")
-test
-test
+print("Hello World")
