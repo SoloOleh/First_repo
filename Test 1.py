@@ -1,2 +1,2 @@
-name = "Oleg"
-hello_string = f"Hello, {name}!"
+print("Hello World!")
+input()
