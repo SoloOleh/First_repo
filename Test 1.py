@@ -1,1 +1,2 @@
-x = 8**3 + 4*(2 + 2)
+name = "Oleg"
+hello_string = f"Hello, {name}!"
